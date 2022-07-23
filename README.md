@@ -2,3 +2,4 @@
 ### **Assignments**
 
 * [Assignment 1: Getting Your C++ Legs](https://web.stanford.edu/class/archive/cs/cs106b/cs106b.1228/assignments/1-cpp/)
+* [Assignment 2: Fun with Collections](https://web.stanford.edu/class/archive/cs/cs106b/cs106b.1228/assignments/2-adt/)
